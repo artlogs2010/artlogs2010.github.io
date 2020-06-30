@@ -1,5 +1,10 @@
 # Thommy Lee Jones (Actor)
 
+## love chocolate, music and football
+
+* friendly
+* innovative
+
 Tommy Lee Jones (born September 15, 1946) is an American actor and filmmaker. He has received four 
 Academy Award nominations, winning the Best Supporting Actor Oscar for his performance as U.S. Marshal 
 Samuel Gerard in the 1993 thriller film The Fugitive.
