@@ -20,3 +20,6 @@ Natural Born Killers.
 
 As he said:
 > Never say never again
+
+<img src="http://myeducationpath.com/images/vendorlogo/20_big.jpg"/>
+
