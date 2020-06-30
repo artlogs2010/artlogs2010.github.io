@@ -6,7 +6,8 @@
 * innovative
 * innocent
 
-Tommy Lee X (born September 15, 1946) is an American actor and filmmaker. He has received four 
+
+Tommy Lee X is an American actor and filmmaker. He has received four 
 Academy Award nominations, winning the Best Supporting Actor Oscar for his performance as U.S. Marshal 
 Samuel Gerard in the 1993 thriller film The Fugitive.
 
@@ -19,4 +20,5 @@ The First Avenger, CIA Director Robert Dewey in Jason Bourne, and Warden Dwight 
 Natural Born Killers. 
 
 As he said:
-> Never say never again
+> Never say never again!
+
