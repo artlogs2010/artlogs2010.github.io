@@ -1,9 +1,10 @@
 # Thommy Lee Jones (Actor)
 
-## love chocolate, music and football
+## love chocolate, music and football, football, football, football, football
 
 * friendly
 * innovative
+* innocent
 
 Tommy Lee Jones (born September 15, 1946) is an American actor and filmmaker. He has received four 
 Academy Award nominations, winning the Best Supporting Actor Oscar for his performance as U.S. Marshal 
